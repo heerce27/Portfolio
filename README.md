@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website for Heer Shah, a Computer Engineering student specializing in C/C++ development.
 
-## 🚀 Features
+##  Features
 
 - **Modern Dark Theme**: Clean, professional design with a dark color scheme
 - **Fully Responsive**: Optimized for mobile, tablet, and desktop devices
@@ -21,7 +21,7 @@ portfolio/
 └── README.md           # Project documentation
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**: Semantic markup and modern web standards
 - **CSS3**: Advanced styling with animations and transitions
@@ -29,7 +29,7 @@ portfolio/
 - **Font Awesome**: Icon library for social links and skill icons
 - **Google Fonts**: Inter font for typography
 
-## 🎨 Design Features
+##  Design Features
 
 ### Color Scheme
 - Primary: `#00d4ff` (Cyan)
@@ -56,7 +56,7 @@ portfolio/
 - Mobile-responsive hamburger menu
 - Easter egg (Konami code)
 
-## 📱 Responsive Design
+## Responsive Design
 
 The website is fully responsive and works seamlessly across:
 
@@ -64,7 +64,7 @@ The website is fully responsive and works seamlessly across:
 - **Tablet**: 768px-1199px with adjusted layouts
 - **Mobile**: <768px with stacked layouts and touch-friendly interactions
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone or download** the project files
 2. **Open `index.html`** in your web browser
@@ -94,7 +94,7 @@ Then visit `http://localhost:8000` in your browser.
 - **Lighthouse Score**: 95+ (Performance, Accessibility, Best Practices, SEO)
 - **Mobile Friendly**: 100% responsive
 
-## 🔧 Customization
+## Customization
 
 ### Updating Personal Information
 
@@ -129,7 +129,7 @@ Update CSS variables in `styles.css`:
    - Description in `<p class="project-description">`
    - GitHub link in `<a class="project-link">`
 
-## 🌐 Deployment
+##  Deployment
 
 ### GitHub Pages
 
@@ -155,7 +155,7 @@ Update CSS variables in `styles.css`:
 - **Email**: heershah.ce@gmail.com
 - **GitHub**: [heerce27](https://github.com/heerce27)
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
